@@ -1,4 +1,4 @@
-1.Install pipenv if not installed.
+1.pipenv install if not installed.
 
 2.pipenv shell
 
